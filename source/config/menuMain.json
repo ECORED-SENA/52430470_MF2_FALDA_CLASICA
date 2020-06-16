@@ -14,7 +14,7 @@
   {
     "icon": "fa fa-file-text-o",
     "slug": "industrializacion",
-    "title": "Industrialización de patrones",
+    "title": "1. Industrialización de patrones",
     "path": "pages/tema-1.html",
     "submenu": [
       {
