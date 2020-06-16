@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="121" viewBox="0 0 121 121">
+  <g id="Grupo_8378" data-name="Grupo 8378" transform="translate(-115 -1854)">
+    <g id="Grupo_7745" data-name="Grupo 7745" transform="translate(2376 5761)">
+      <circle id="Elipse_497" data-name="Elipse 497" cx="60.5" cy="60.5" r="60.5" transform="translate(-2261 -3907)" fill="#fed97b"/>
+      <path id="Trazado_1178" data-name="Trazado 1178" d="M53.993,0A53.993,53.993,0,1,1,0,53.993,53.993,53.993,0,0,1,53.993,0Z" transform="translate(-2254 -3900)" fill="#fff"/>
+    </g>
+    <g id="Rectángulo_1851" data-name="Rectángulo 1851" transform="translate(139 1883)" fill="none" stroke="#00a99a" stroke-width="4">
+      <rect width="32" height="32" stroke="none"/>
+      <rect x="2" y="2" width="28" height="28" fill="none"/>
+    </g>
+    <g id="Rectángulo_1852" data-name="Rectángulo 1852" transform="translate(163 1921)" fill="none" stroke="#00a99a" stroke-width="4">
+      <rect width="38" height="38" rx="19" stroke="none"/>
+      <rect x="2" y="2" width="34" height="34" rx="17" fill="none"/>
+    </g>
+    <g id="Polígono_10" data-name="Polígono 10" transform="translate(182 1880)" fill="none">
+      <path d="M16.5,0,33,29H0Z" stroke="none"/>
+      <path d="M 16.5 8.088592529296875 L 6.877992630004883 25 L 26.12200736999512 25 L 16.5 8.088592529296875 M 16.5 0 L 33 29 L 0 29 L 16.5 0 Z" stroke="none" fill="#00a99a"/>
+    </g>
+  </g>
+</svg>

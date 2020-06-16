@@ -1,0 +1,123 @@
+[
+  {
+    "letter": "B",
+    "terms": [
+      {
+        "title": "Bies",
+        "desciption": "Corte de la tela de forma diagonal al cual se denomina sesgo."
+      },
+      {
+        "title": "Bordes",
+        "desciption": "Orilla de la tela."
+      },
+      {
+        "title": "Botones",
+        "desciption": "Elemento utilizado para cerrar o abrochar partes o para adornar prendas de vestir."
+      },
+      {
+        "title": "Broches",
+        "desciption": "Se compone de dos partes que ajustados cierran la prenda."
+      }
+    ]
+  },
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Cremallera",
+        "desciption": "Sistema de cierre usado en indumentaria y accesorios, que tiene un mecanismo similar al de los piñones que se fijan por acomodación."
+      },
+      {
+        "title": "Cierre",
+        "desciption": "Es el sistema que le permite a la prenda  ubicarse y ajustarse sobre el cuerpo."
+      },
+      {
+        "title": "Costura",
+        "desciption": "Es el aumento de tolerancia que se da a los patrones para su ensamble en máquina de coser."
+      }
+    ]
+  }, 
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "Entretela",
+        "desciption": "Es una tela de material grueso que refuerza las piezas."
+      },
+      {
+        "title": "Entretelar",
+        "desciption": "Pegar la entretela al material por medio de calor."
+      }
+    ]
+  },
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Filetear",
+        "desciption": "Sobrehilar los orillos de la tela."
+      }
+    ]
+  },
+  {
+    "letter": "H",
+    "terms": [
+      {
+        "title": "Hilo de tela",
+        "desciption": "Es la línea del centro de la tela, que brinda una guía para el corte de la tela buscando buena caída en la prenda vestir confeccionada."
+      }
+    ]
+  },
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Orillo",
+        "desciption": "Es el  borde de los tejidos."
+      }
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Patrón base",
+        "desciption": "Se denomina patrón base al patrón inicial que se construye a partir de las medidas anatómicas sin desahogos y que sirve para desarrollar modelos partiendo de los mismos."
+      },
+      {
+        "title": "Pestaña",
+        "desciption": "Margen de costura."
+      },
+      {
+        "title": "Pinzas",
+        "desciption": "Son pliegues sobre la prenda de vestir para dar forma y ajuste a las curvas naturales del cuerpo."
+      },
+      {
+        "title": "Piquetes",
+        "desciption": "Son cortes en el borde de la tela e indican aplomos, puntos de unión y facilitan  el montaje de las piezas en una prenda de vestir."
+      },
+      {
+        "title": "Pretina",
+        "desciption": "Pieza de tela utilizada para colocar en la cintura de algunas prendas de vestir."
+      }      
+    ]
+  },
+  {
+    "letter": "R",
+    "terms": [
+      {
+        "title": "Rematar",
+        "desciption": "Se usa para reforzar una costura.  Generalmente cosiendo adelante y atrás."
+      }
+    ]
+  },
+  {
+    "letter": "T",
+    "terms": [
+      {
+        "title": "Tornillo regulador de presión del prénsatela",
+        "desciption": "Pieza del cabezote de la máquina de coser que ejerce presión para prensar la tela."
+      }
+    ]
+  }    
+]
